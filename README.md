@@ -1,6 +1,6 @@
 # Práctica IA – Clasificación Car Evaluation
 
-Autor: Miguel Angel Cardona Torrero
+Autor: Miguel Angel C.
 
 ## Descripción
 
@@ -25,3 +25,4 @@ Incluye un menú interactivo para:
 
 Instalación:
 Se creo en un etorno virtual con pyton version 3.11.9
+
