@@ -1,7 +1,7 @@
 # ======================================================
 # Trabajando con árboles de decisión y técnicas de ensemble learning
 # Dataset: Car Evaluation
-# Nombre: Miguel Angel Cardona Torrero
+# Nombre: Miguel Angel C.
 # ======================================================
 
 # ===============================
@@ -273,3 +273,4 @@ def menu():
 # ===============================
 if __name__ == "__main__":
     menu()
+
